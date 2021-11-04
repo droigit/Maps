@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* Included marker count for each map on intial screen
+* Included marker count for each map on intial screen.
 
 ## Video Walkthrough
 
